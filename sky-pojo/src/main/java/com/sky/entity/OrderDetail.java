@@ -45,3 +45,5 @@ public class OrderDetail implements Serializable {
     //图片
     private String image;
 }
+
+
